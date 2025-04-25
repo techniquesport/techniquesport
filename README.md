@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- portfolio for mads 😍 -->
+    <!-- Content -->
   </head>
   <body>
     <!-- Document content -->
