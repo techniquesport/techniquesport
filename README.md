@@ -20,3 +20,4 @@ Indesign Assignment (PDF booklet)
 Github Website assignment (Completed github website portfolio with files)
 
 ![Book Cover](Portfolio/FnTBookAssignment_IntrotoTechniques.jpeg)
+![Adobe Illustrator assignment](Portfolio/Wheeler_illustrator_01_SP25.png)
